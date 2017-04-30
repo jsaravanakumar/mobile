@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- General -->
+    <skip />
+
+    <!-- Application name -->
+    <string name="moss">Moss</string>
+    <string name="data_service">Moss Data Service</string>
+    <string name="settings">Settings</string>
+    <string name="description">System monitor wallpaper, in the likeness of Conky.</string>
+
+    <!-- Prefs -->
+    <string name="config_custom_cat">Custom</string>
+    <string name="config_file">Custom File</string>
+
+    <string name="update_interval">Update Interval</string>
+
+    <string name="background_cat">Background</string>
+    <string name="bg_image_title">Image</string>
+    <string name="bg_color_title">Color</string>
+    <string name="mod_color_title">Mod Color</string>
+
+    <string name="font_cat">Font</string>
+    <string name="font_size_title">Font Size</string>
+    <string name="font_face_title">Font Family</string>
+
+    <string name="gap_cat">Gap</string>
+    <string name="gap_x">X</string>
+    <string name="gap_y">Y</string>
+
+    <string name="pick_a_color">Select a color: </string>
+    <string name="dia_errors_title">Configuration Errors</string>
+
+    <string name="moss_viewer">Moss Viewer</string>
+    <string name="configs">Configurations</string>
+    <string name="configs_summary">Select from a list of configurations.</string>
+    <string name="custom_config_file">Custom Config File</string>
+
+    <string name="reloading">Reloading</string>
+    <string name="reload">Reload</string>
+    <string name="reload_summary">Force Moss to reload your configuration.</string>
+    <string name="overrides">Overrides</string>
+    <string name="overrides_summary">Override different configuration settings.</string>
+    <string name="reset">Reset</string>
+    <string name="reset_summary">Reset all preferences and reload the default values from the configuration file.</string>
+    <string name="help">Help</string>
+    <string name="help_summary">Display the Moss help pages.</string>
+
+
+    <string name="misc">Miscellaneous</string>
+    <string name="empty_list">Empty List</string>
+
+    <string name="config_basic_name">Basic Configuration</string>
+    <string name="config_basic_desc">A small and simple configuration.</string>
+
+    <string name="config_network">Network Emphasis</string>
+    <string name="config_network_desc">Focuses on network usage and devices.</string>
+
+    <string name="config_process">Process Emphasis</string>
+    <string name="config_process_desc">Focuses on displaying process information.</string>
+
+    <string name="config_full">Large Configuration</string>
+    <string name="config_full_desc">Includes many different objects.</string>
+
+    <string name="config_ebuprof">Ebuprof</string>
+    <string name="config_ebuprof_desc">Ebuprof take from http://hundone.deviantart.com/art/My-Conky-Config-1-3-60095106.</string>
+
+    <string name="remove">Remove</string>
+
+    <string name="beginning_download">Beginning download</string>
+    <string name="loading">Loading...</string>
+    <string name="processing_x">Processing %1$s</string>
+    <string name="switching_to">Switching to %1$s</string>
+    <string name="error_during_lookup">Error during lookup</string>
+    <string name="path_to_config">Path to configuration file.</string>
+    <string name="does_not_exist">%1$s does not exist.</string>
+
+    <string name="removing_from_db">Removing %1$s from database</string>
+    <string name="removing_from_fs">Removing %1$s from filesystem</string>
+
+    <string name="available_configurations">Available Configurations</string>
+    <string name="current_configurations">Current Configuration</string>
+
+    <string name="download_dialog">Download Results</string>
+    <string name="ok">Okay</string>
+    <string name="download_finished">Your download finished.</string>
+    <string name="error_occured">An error occured.</string>
+    <string name="local">local</string>
+
+    <!-- service -->
+    <string name="service_desc">Moss data gathering service</string>
+
+
+</resources>

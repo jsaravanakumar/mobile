@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string-array name="config_sample_names">
+        <item>Default</item>
+        <item>Network Emphasis</item>
+        <item>Process Emphasis</item>
+        <item>Large Configuration</item>
+        <item>Custom</item>
+    </string-array>
+
+    <string-array name="config_sample_values">
+        <item>default.conf</item>
+        <item>network.conf</item>
+        <item>process.conf</item>
+        <item>full.conf</item>
+        <item>CUSTOM</item>
+    </string-array>
+
+    <array name="font_sizes">
+        <item>6.0</item>
+        <item>8.0</item>
+        <item>10.0</item>
+        <item>12.0</item>
+        <item>14.0</item>
+    </array>
+
+    <string-array name="interval_types">
+        <item>Seconds</item>
+        <item>Minutes</item>
+        <item>Hours</item>
+    </string-array>
+
+    <integer-array name="interval_values">
+        <item>1</item>
+        <item>60</item>
+        <item>3600</item>
+    </integer-array>
+
+</resources>
+

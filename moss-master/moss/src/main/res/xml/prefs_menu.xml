@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen 
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res/org.mosspaper.prefs"
+        android:title="@string/settings"
+        android:key="settings">
+
+    <Preference
+        android:key="config_list"
+        android:title="@string/configs"
+        android:summary="@string/configs_summary"
+        android:singleLine="true"
+        />
+
+    <Preference
+        android:key="config_reload"
+        android:title="@string/reload"
+        android:summary="@string/reload_summary"
+        android:singleLine="true"
+        />
+
+    <Preference
+        android:key="config_overrides"
+        android:title="@string/overrides"
+        android:summary="@string/overrides_summary"
+        android:singleLine="true"
+        />
+
+    <Preference
+        android:key="config_help"
+        android:title="@string/help"
+        android:summary="@string/help_summary"
+        android:singleLine="true"
+        />
+
+
+</PreferenceScreen>

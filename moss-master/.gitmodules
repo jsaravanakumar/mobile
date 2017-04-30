@@ -1,0 +1,3 @@
+[submodule "jni/tcp-portmon"]
+	path = moss/src/main/jni/tcp-portmon
+	url = git://github.com/teneighty/tcp-portmon.git
