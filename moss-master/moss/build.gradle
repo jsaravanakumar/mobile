@@ -8,6 +8,14 @@ buildscript {
 }
 apply plugin: 'android'
 
+ android {
+    sourceSets {
+        main {
+            jni.srcDirs = []
+        }
+    }
+}
+
 android {
     compileSdkVersion rootProject.ext.compileSdkVersion
     buildToolsVersion rootProject.ext.buildToolsVersion
